@@ -1,0 +1,6 @@
+@CHNUCooin_HostAddress = http://localhost:5206
+
+GET {{CHNUCooin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

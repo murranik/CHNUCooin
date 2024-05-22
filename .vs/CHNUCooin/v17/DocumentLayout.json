@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\CHNUCooin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4573B66C-9C5F-4DE9-8088-BE0544205F64}|CHNUCooin\\CHNUCooin.csproj|c:\\users\\user\\source\\repos\\chnucooin\\chnucooin\\services\\transactionprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4573B66C-9C5F-4DE9-8088-BE0544205F64}|CHNUCooin\\CHNUCooin.csproj|solutionrelative:chnucooin\\services\\transactionprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4573B66C-9C5F-4DE9-8088-BE0544205F64}|CHNUCooin\\CHNUCooin.csproj|c:\\users\\user\\source\\repos\\chnucooin\\chnucooin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4573B66C-9C5F-4DE9-8088-BE0544205F64}|CHNUCooin\\CHNUCooin.csproj|solutionrelative:chnucooin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4573B66C-9C5F-4DE9-8088-BE0544205F64}|CHNUCooin\\CHNUCooin.csproj|c:\\users\\user\\source\\repos\\chnucooin\\chnucooin\\services\\background\\processtransactionbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4573B66C-9C5F-4DE9-8088-BE0544205F64}|CHNUCooin\\CHNUCooin.csproj|solutionrelative:chnucooin\\services\\background\\processtransactionbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CHNUCooin\\CHNUCooin\\Services\\TransactionProcessingService.cs",
+              "RelativeDocumentMoniker": "CHNUCooin\\Services\\TransactionProcessingService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CHNUCooin\\CHNUCooin\\Services\\TransactionProcessingService.cs",
+              "RelativeToolTip": "CHNUCooin\\Services\\TransactionProcessingService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAIAwwBUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:05:22.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CHNUCooin\\CHNUCooin\\Program.cs",
+              "RelativeDocumentMoniker": "CHNUCooin\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CHNUCooin\\CHNUCooin\\Program.cs",
+              "RelativeToolTip": "CHNUCooin\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwB0AAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:04:55.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessTransactionBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CHNUCooin\\CHNUCooin\\Services\\Background\\ProcessTransactionBackgroundService.cs",
+              "RelativeDocumentMoniker": "CHNUCooin\\Services\\Background\\ProcessTransactionBackgroundService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CHNUCooin\\CHNUCooin\\Services\\Background\\ProcessTransactionBackgroundService.cs",
+              "RelativeToolTip": "CHNUCooin\\Services\\Background\\ProcessTransactionBackgroundService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:03:48.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
